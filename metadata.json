@@ -1,0 +1,6 @@
+{
+  "name": "متجر المنتجات الرقمية - تليجرام",
+  "description": "لوحة تحكم لإدارة متجر على تليجرام لبيع المنتجات الرقمية والدفع التلقائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
